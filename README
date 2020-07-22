@@ -11,6 +11,8 @@ arraste ou copie o '_App.RAR' baixado no link acima para dentro de 'rar', pronto
 Caso seu sistema seja de 64bits, repita o procedimento para sistemas 32bits, mas ao invés de baixar a pasta '_x32',
 baixe a pasta '_x64'.
 
+OBS: Antes de executar o programa, na pasta _x32 ou _x64, rode o executável 'chk.exe'.
+
 
 --------> EN-US
 Download the file '_App.RAR' in this link: https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file
@@ -22,3 +24,5 @@ drag or copy the '_App.RAR' downloaded from the link above into 'rar', ready, ru
 
 If your system is 64-bit, repeat the procedure for 32-bit systems, but instead of downloading the '_x32' folder,
 download the '_x64' folder.
+
+NOTE: Before running the program, in the _x32 or _x64 folder, run the executable 'chk.exe'.
