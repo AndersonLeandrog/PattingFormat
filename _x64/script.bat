@@ -21,7 +21,7 @@ cd rar
   AcroRdrDC1900820071_pt_BR.exe  /sAll
   
   ::Adobe Shockwave Player 
-  shockwave_xa_install.exe.exe /S
+  shockwave_xa_install.exe /S
 
   ::ccleaner /Silent OK
   ccsetup568.exe /S /L=1033
@@ -49,6 +49,7 @@ cd rar
 
   ::OpenAL 
   "oalinst.exe" /q
+
   ::Utorrent
   uTorrent.exe /S
 
