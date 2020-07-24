@@ -4,7 +4,7 @@ cd rar
  ::Winrar /first
  wrar591.exe /S
  "C:\Program Files\WinRAR\rar.exe" -df x -y _App.rar
-  
+
   ::Adobe Air /Silent OK
   AdobeAIRInstaller.exe -silent -eulaAccepted
 
@@ -19,20 +19,20 @@ cd rar
 
   ::Adobe Reader for Windows 10 /Silent OK
   AcroRdrDC1900820071_pt_BR.exe  /sAll
-  
-  ::Adobe Shockwave Player 
+
+  ::Adobe Shockwave Player
   shockwave_xa_install.exe.exe /S
 
   ::ccleaner /Silent OK
   ccsetup568.exe /S /L=1033
 
   ::Directx 9-11 /Silent OK
-  "dxwebsetup.exe" /q 
-  
+  "dxwebsetup.exe" /q
+
   ::Daemon Tools Lite 10 /Silent OK
   DTLiteInstaller.exe /S
 
-  ::Google Chrome 
+  ::Google Chrome
   ChromeSetup.exe /install
 
   ::Java Runtime /Silent OK
@@ -43,47 +43,41 @@ cd rar
 
   ::Microsoft Silverlight /Silent OK
   "Silverlight.exe" /q
-  
+
   ::Microsoft XNA.Framework /Silent OK
   "xnafx40_redist.msi" /quiet /norestart
 
-  ::OpenAL 
+  ::OpenAL
   "oalinst.exe" /q
 
   ::Utorrent
   uTorrent.exe /S
 
-  ::VLC Media Player /Silent OK      
+  ::VLC Media Player /Silent OK
   vlc-3.0.11-win32.exe /L=1033 /S
 
-  ::visual c++ 2005 /Silent OK            + Falta
-  "vcredist2005_x64.exe" /q
-  
-  ::visual c++ 2008 /Silent OK            + Falta
-  "vcredist2008_x64.exe" /q
-  
-  ::visual c++ 2010 /Silent OK            + Falta
-  "vcredist2010_x64.exe" /q
-  
-  ::visual c++ 2012 /Silent OK            + Falta
-  "vcredist2012_x64.exe" /q  
-  
-  ::visual c++ 2013 /Silent OK            + Falta
-  "vcredist2013_x64.exe" /q
-  
-  ::visual c++ 2015 /Silent OK            + Falta
-  "vcredist2015_x64.exe" /q
-  
-  ::visual c++ 2017 /Silent OK            + Falta
-  "vcredist2017_x64.exe" /q
-  
-  ::visual c++ 2019 /Silent OK            + Falta
-  "vcredist2019_x64.exe" /q
+  ::visual c++ 2005 /Silent OK            
+  "vcredist2005_x86.exe" /q
+
+  ::visual c++ 2008 /Silent OK
+  "vcredist2008_x86.exe" /q
+
+  ::visual c++ 2010 /Silent OK
+  "vcredist2010_x86.exe" /q
+
+  ::visual c++ 2012 /Silent OK
+  "vcredist2012_x86.exe" /q
+
+  ::visual c++ 2013 /Silent OK
+  "vcredist2013_x86.exe" /q
+
+  ::visual c++ 2015 /Silent OK
+  "vcredist2015_2017_2019_x86.exe" /q
 
   ::open log *.txt
-  log.txt 
+  log.txt
 
-  erase *.exe 
+  erase *.exe
   erase *.msi
   erase *.txt
 
