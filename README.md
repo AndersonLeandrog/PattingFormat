@@ -27,4 +27,6 @@ drag or copy the '_App.RAR' downloaded from the link above into 'rar', ready, ru
 download the '_x64' folder.
 
 3. NOTE: Before running the program,
-      open the Public_x32 or Public_x64 folder if your download is 64bit and run the file 'Start_usr.cmd'. -
+      open the Public_x32 or Public_x64 folder if your download is 64bit and run the file 'Start_usr.cmd'. -  
+  
+![alt text](https://cdn.iconscout.com/icon/free/png-512/github-153-675523.png)
