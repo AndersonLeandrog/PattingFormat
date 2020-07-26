@@ -1,7 +1,7 @@
-**PT-BR Abaixo o procedimento obrigatório para rodar essa aplicação em Português-BR e Inglês-US.**  
-**EN-US Below the mandatory procedure to run this application in Portuguese-BR and English-US.**  
+### PT-BR Abaixo o procedimento obrigatório para rodar essa aplicação em Português-BR e Inglês-US. ###
+### EN-US Below the mandatory procedure to run this application in Portuguese-BR and English-US. ### 
 
-*--------> PT-BR*  
+**_--------> PT-BR_**  
 Baixe o arquivo ['_App.RAR'](https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file)  
 > O arquivo possui 488.59MB, o download pode demorar, tenha paciência.
 
@@ -15,7 +15,7 @@ baixe a pasta '_x64'.
      abra a pasta Public_x32 ou Public_x64 caso seu download for o de 64bits  e execute o arquivo 'Start_usr.cmd'. -    
   
 
-*--------> EN-US*  
+**_--------> EN-US_**  
 Download the file ['_App.RAR'](https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file)  
 > The file has 488.59MB, the download may take time, be patient.  
 
