@@ -1,18 +1,18 @@
-# PT-BR Abaixo o procedimento obrigatório para rodar essa aplicação em Português-BR e Inglês-US.
-## EN-US Below the mandatory procedure to run this application in Portuguese-BR and English-US.
+**PT-BR Abaixo o procedimento obrigatório para rodar essa aplicação em Português-BR e Inglês-US.**
+**EN-US Below the mandatory procedure to run this application in Portuguese-BR and English-US.**
 
---------> PT-BR
-Baixe o arquivo '_App.RAR' neste link: https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file
-> O arquivo possui 488.59MB, o download pode demorar, tenha paciência.
+*--------> PT-BR*
+Baixe o arquivo ['_App.RAR'](https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file)
+O arquivo possui 488.59MB, o download pode demorar, tenha paciência.
 
-Se o seu sistema opera a 32bits, Baixe a pasta '_x32', abra a pasta '_x32' baixada e em seguida abra a pasta 'rar',
+1. Se o seu sistema opera a 32bits, Baixe a pasta '_x32', abra a pasta '_x32' baixada e em seguida abra a pasta 'rar',
 arraste ou copie o '_App.RAR' baixado no link acima para dentro de 'rar', pronto, execute o xPattingNFormat.exe.
 
-Caso seu sistema seja de 64bits, repita o procedimento para sistemas 32bits, mas ao invés de baixar a pasta '_x32',
+2. Caso seu sistema seja de 64bits, repita o procedimento para sistemas 32bits, mas ao invés de baixar a pasta '_x32',
 baixe a pasta '_x64'.
 
-OBS: Antes de executar o programa, 
-     abra a pasta Public_x32 ou Public_x64 caso seu download for o de 64bits  e execute o arquivo 'Start_usr.cmd'. -
+3. OBS: Antes de executar o programa, 
+     abra a pasta Public_x32 ou Public_x64 caso seu download for o de 64bits  e execute o arquivo 'Start_usr.cmd'. - ```
 
 
 --------> EN-US
