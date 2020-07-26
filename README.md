@@ -13,7 +13,7 @@ baixe a pasta '_x64'.
 
 3. OBS: Antes de executar o programa, 
      abra a pasta Public_x32 ou Public_x64 caso seu download for o de 64bits  e execute o arquivo 'Start_usr.cmd'. -    
-
+  
 
 *--------> EN-US*  
 Download the file ['_App.RAR'](https://www.mediafire.com/file/gy070hhrnpv5en7/_App.rar/file)  
